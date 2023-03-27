@@ -1,6 +1,6 @@
 const obj = {
 };
-obj[0] = {title:"Boeing-Saab T-7", image:"C:\\Users\\Imtiaz\\Desktop\\javascript project\\image\\T-7A-600x400.jpg",price:"275",num:0}
+obj[0] = {title:"Boeing-Saab T-7", image:"image\\T-7A-600x400.jpg",price:"275",num:0}
 
 obj[1] = {title:"Chengdu J-20 (Black Eagle)", image:"image\\800px-J-20_at_Airshow_China_2016.jpg",price:"375",num:0}
 
